@@ -14,8 +14,11 @@ The model architecture consists of several convolutional layers designed to extr
     ```sh
     git clone https://github.com/dikshitrishii/Denoising-Images.git
     ```
-
-2. **Run the Main Script**:
+2. **Go to project directory**:
+    ```sh
+    cd Denoising-Images
+    ```
+3. **Run the Main Script**:
     ```sh
     python main.py
     ```
