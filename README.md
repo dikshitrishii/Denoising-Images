@@ -8,6 +8,7 @@ The model architecture consists of several convolutional layers designed to extr
 - **Convolution Layers**: Multiple layers with 32 filters each, using 3x3 kernels and ReLU activation.
 - **Skip Connections**: Added to help retain and utilize information from previous layers.
 - **Output Layer**: A convolutional layer with activation to create the final enhanced image.
+- Detailed architecture is provided in report pdf.
 
 ## How to Run
 1. **Clone the Repository**:
