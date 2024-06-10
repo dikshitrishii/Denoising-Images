@@ -23,3 +23,5 @@ The model architecture consists of several convolutional layers designed to extr
     python main.py
     ```
 #### Keep low light image in test/low folder run the script and it's denoised image will be saved in test/predicted
+In this repo one low image is already in test/low and it's corrosponding denoised image is in test/predicted.
+To try different images you can delete sample low image and upload your low image.
