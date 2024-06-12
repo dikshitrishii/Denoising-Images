@@ -10,6 +10,9 @@ The model architecture consists of several convolutional layers designed to extr
 - **Output Layer**: A convolutional layer with activation to create the final enhanced image.
 - Detailed architecture is provided in report pdf.
 
+## PSNR score is taken into consideration as an evaluation parameter for the model
+Final average psnr on testing data = 27.41388
+
 ## How to Run
 1. **Clone the Repository**:
     ```sh
